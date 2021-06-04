@@ -4,9 +4,9 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... Minecraft Client/Network
-- 🌱 I’m currently learning ... Java
-- 👯 I’m looking to collaborate on ... Java
+- 🔭 I’m currently working on ... Minecraft Client/Network , C# (Unity)
+- 🌱 I’m currently learning ... Java, C#
+- 👯 I’m looking to collaborate on ... C# (Unity)
 - 🤔 I’m looking for help with ... SourcePawn
 - 💬 Ask me about ... HTML
 - 📫 How to reach me: ... [Twitter](https://twitter.com/lastroundval)
