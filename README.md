@@ -11,5 +11,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ... HTML
 - 📫 How to reach me: ... [Twitter](https://twitter.com/lastroundval)
 - 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ... I wrote my first script at age 7
+- ⚡ Fun fact: ... I wrote my first script when i was 7
 
